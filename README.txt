@@ -1,4 +1,5 @@
 #@phunghoa
+This robot is differential drive robot.
 #kill gazebo
 killall -9 gzserver
 
